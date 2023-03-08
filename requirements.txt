@@ -67,9 +67,11 @@ kiwisolver==1.4.4
 livingpark_utils==0.9
 looseversion==1.1.2
 lxml==4.9.2
+markdown-it-py==2.2.0
 MarkupSafe==2.1.2
 matplotlib==3.7.0
 matplotlib-inline==0.1.6
+mdurl==0.1.2
 mistune==2.0.5
 mock==5.0.1
 more-itertools==9.1.0
@@ -123,6 +125,7 @@ requests==2.28.2
 requests-toolbelt==0.10.1
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
+rich==13.3.2
 scikit-learn==1.2.1
 scipy==1.10.1
 SecretStorage==3.3.3
