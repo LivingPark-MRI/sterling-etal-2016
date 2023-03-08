@@ -210,3 +210,6 @@ error*
 .ppmi_config
 /data
 /utils
+/inputs
+/outputs
+*.pdf
